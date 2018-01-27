@@ -1,5 +1,3 @@
-import { resolve } from 'dns';
-
 const express = require('express')
 
 export default class WebServer {
